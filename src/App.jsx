@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import Mixtape from "./components/Mixtape";
 import MusicIcons from "./components/MusicIcons";
+import Shoutout from "./components/Shoutout";
 import Socialicons from "./components/Socialicons";
 import WhereTo from "./components/WhereTo";
 
@@ -15,11 +16,12 @@ function App() {
       <Header />
       <Home />
       <Mixtape />
+      <Shoutout />
       <AudioPlayer />
       <MusicIcons />
       <BlessingCover />
       <WhereTo />
-      <Socialicons/>
+      <Socialicons />
       <Bottom />
     </div>
   );
