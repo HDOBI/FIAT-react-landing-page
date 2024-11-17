@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import Mixtape from "./components/Mixtape";
 import Socialicons from "./components/Socialicons";
+import WhereTo from "./components/WhereTo";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <AudioPlayer />
       <Socialicons/>
       <BlessingCover/>
+      <WhereTo/>
       <Bottom/>
     </div>
   );
