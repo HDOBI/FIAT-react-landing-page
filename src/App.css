@@ -9,3 +9,7 @@
   /* background: url("./images/hero.png") no-repeat center / cover; */
   /* background: url("./images/hero.png") no-repeat center / cover; */
 }
+
+.cover h1{
+  -webkit-text-stroke-color: black;
+}

@@ -1,5 +1,6 @@
 import "./App.css";
 import AudioPlayer from "./components/AudioPlayer";
+import BlessingCover from "./components/BlessingCover";
 import Header from "./components/Header";
 import Home from "./components/Home";
 import Mixtape from "./components/Mixtape";
@@ -13,6 +14,7 @@ function App() {
       <Mixtape />
       <AudioPlayer />
       <Socialicons/>
+      <BlessingCover/>
     </>
   );
 }
