@@ -1,14 +1,15 @@
 [
-  {
-    "id": 1,
-    "icon": "/icons/soundcloud.png"
-  },
-  {
-    "id": 2,
-    "icon": "/icons/audomack.png"
-  },
-  {
-    "id": 3,
-    "icon": "/icons/brandcamp.png"
-  }
-]
+    {
+      "id": 1,
+      "icon": "/icons/x.png"
+    },
+    {
+      "id": 2,
+      "icon": "/icons/youtube.png"
+    },
+    {
+      "id": 3,
+      "icon": "/icons/insta.png"
+    }
+  ]
+  
