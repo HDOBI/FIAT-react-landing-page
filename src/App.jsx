@@ -13,13 +13,13 @@ function App() {
   return (
     <div class="max-w-[1200px] mx-auto overflow-x-hidden">
       <Header />
-      <Socialicons/>
       <Home />
       <Mixtape />
       <AudioPlayer />
       <MusicIcons />
       <BlessingCover />
       <WhereTo />
+      <Socialicons/>
       <Bottom />
     </div>
   );
