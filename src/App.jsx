@@ -11,7 +11,7 @@ import WhereTo from "./components/WhereTo";
 
 function App() {
   return (
-    <div class="max-w-[1200px] mx-auto overflow-x-hidden">
+    <div className="max-w-[1200px] mx-auto overflow-x-hidden">
       <Header />
       <Home />
       <Mixtape />
