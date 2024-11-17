@@ -8,14 +8,14 @@ import Socialicons from "./components/Socialicons";
 
 function App() {
   return (
-    <>
+    <div class='max-w-[1200px] mx-auto'>
       <Header />
       <Home/>
       <Mixtape />
       <AudioPlayer />
       <Socialicons/>
       <BlessingCover/>
-    </>
+    </div>
   );
 }
 
