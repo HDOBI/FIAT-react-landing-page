@@ -7,9 +7,10 @@
 
 .hero {
   /* background: url("./images/hero.png") no-repeat center / cover; */
-  /* background: url("./images/hero.png") no-repeat center / cover; */
 }
 
-.cover h1{
+.cover h1 {
+  -webkit-text-stroke: 0.15vw #232323; /*stroke size and color */
+  font-size: 4.1vw;
   -webkit-text-stroke-color: black;
 }
