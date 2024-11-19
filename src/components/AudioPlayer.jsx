@@ -8,7 +8,7 @@ function AudioPlayer() {
         className="min-w-full"
         height="500"
         scrolling="no"
-        frameborder="no"
+        frameBorder="no"
         src="https://fidbak.audio/fyebabykrzy/embed/84c27b2abdfb/05f028bbd574"
       ></iframe>
     </div>
