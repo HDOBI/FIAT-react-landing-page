@@ -1,15 +1,17 @@
 [
-    {
-      "id": 1,
-      "icon": "/icons/x.png"
-    },
-    {
-      "id": 2,
-      "icon": "/icons/youtube.png"
-    },
-    {
-      "id": 3,
-      "icon": "/icons/insta.png"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "icon": "/icons/x.png",
+    "link": "https://twitter.com/"
+  },
+  {
+    "id": 2,
+    "icon": "/icons/youtube.png",
+    "link": "https://www.youtube.com/"
+  },
+  {
+    "id": 3,
+    "icon": "/icons/insta.png",
+    "link": "https://www.instagram.com/"
+  }
+]
