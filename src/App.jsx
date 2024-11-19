@@ -9,6 +9,7 @@ import MusicIcons from "./components/MusicIcons";
 import Shoutout from "./components/Shoutout";
 import Socialicons from "./components/Socialicons";
 import WhereTo from "./components/WhereTo";
+import YoutubeVideo from "./components/YoutubeVideo";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <AudioPlayer />
       <MusicIcons />
       <BlessingCover />
+      <YoutubeVideo/>
       <WhereTo />
       <Socialicons />
       <Bottom />
