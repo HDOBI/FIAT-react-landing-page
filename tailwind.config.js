@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      textShadow: {
+        custom: '1px 1px 2px rgba(0, 0, 0, 0.25)',
+      },
       screens: {
         xs: '500px', 
       },
