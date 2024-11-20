@@ -17,7 +17,7 @@ function WhereTo() {
       </div>
     </div>
   </div>
-  z<a href='https://ditto.fm/where-yo-fiat' target="_blank"><img src={whereWhite}/></a>
+  <a href='https://ditto.fm/where-yo-fiat' target="_blank"><img src={whereWhite}/></a>
    </div>
   )
 }
